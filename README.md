@@ -26,7 +26,7 @@ A user-defined material subroutine for polycrystalline shape memory alloys under
 ! XXX     statev(25)         =      NR_CONVERGENCE                                                    XXX   
 ! XXX     statev(26)         =      TOO                                                               XXX   
 ! XXX*******************************************************************************************************************************XXX
-! XXX  *User Material, constants=25                                                                                                                                  XXX
+! XXX  *User Material, constants=25                                                                                                 XXX
 ! XXX  <Ea>,              <Em>,          <v>,           <alpha>,        <CA>,            <CM>,                <Ms>,         <Mf>                    XXX 
 ! XXX  <As>,              <Af>,          <Hmax>,         <kt>,          <SigCal>,       <n1>,                 <n2>,         <n3>                    XXX                                             
 ! XXX  <n4>,             <X_initial>,      <Etd>,  <Tube_Flag>,      <Tube_Axis>,  <Tube_Radius>, <Elastic>,    <Coupling>  XXX                                                         
