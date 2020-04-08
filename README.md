@@ -1,7 +1,7 @@
 # SMA-UMAT
 In this folder, there are two UMATs available for you to simulate the constituive behaviours of SMAs using finite element software Abaqus.
 
-1. Finite_Strain_SMA_UMAT.for, this file is the UMAT to simulate SMAs undergoing large deformations. See reference paper for the detail, 
+1. Finite_Strain_SMA_UMAT.for, this file is the UMAT to simulate SMAs undergoing large deformations. See reference paper for the detail. 
 Xu, Lei, Theocharis Baxevanis, and D. C. Lagoudas. "A three-dimensional constitutive model for the martensitic transformation in polycrystalline shape memory alloys under large deformation." Smart Materials and Structures 28.7 (2019): 074004. https://doi.org/10.1088%2F1361-665x%2Fab1acb
 
 2. SMA-TRIP.for, this file is the UMAT that simulates the constitutive behaviour of SMAs considering the transformation-induced plasticity(TRIP) and the two-way shape memory effect(TWSME), see the following paper as reference.
