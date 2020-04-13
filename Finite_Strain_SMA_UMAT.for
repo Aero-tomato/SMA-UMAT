@@ -1,15 +1,15 @@
 !DEC$ FREEFORM
 ! Open with Notepad++ for format compatibility
-!**********************************************************************************XXX
-!                                                                                                                   XXX
-!                              3D FINITE STRIN SMA UMAT                                       XXX
-!                                                                                                                   XXX
-!    			COPYRIGHT   LEI XU1, Alexandros Solomou1, Theo Baxevanis2, Dimitris Lagoudas1 	XXX
+!***********************************************************************************************XXX
+!                                                                                               XXX
+!                              3D FINITE STRIN SMA UMAT                                         XXX
+!                                                                                               XXX
+!    	    COPYRIGHT   LEI XU1, Alexandros Solomou1, Theo Baxevanis2, Dimitris Lagoudas1 	XXX
 !           1 Department of Aerospace Engineering, Texas A&M University    XXX
 !           2 Department of Mechanical Engineering, University of Houston  XXX
 !               Version  (3-D)  20/JAN./2018                                                     XXX
-!                                                                                                                   XXX                             
-! XXX************************************************************************************************ XXX  
+!                                                                                                XXX                             
+! XXX********************************************************************************************XXX  
 ! XXX  *MATERIAL, NAME=SMA                                                                                              XXX                                                                   
 ! XXX  *DEPVAR                                                                                                                       XXX   
 ! XXX    26                                                                                                                               XXX   
