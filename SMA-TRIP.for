@@ -1,11 +1,10 @@
 !DEC$ FREEFORM
-!************************************************************************XXX
-!
-!   3D UNIFIED SMA UMAT INCORPORATING TANSFORMATION-INDUCED PLASTICITY(TRIP)
-!
-!    			COPYRIGHT      LEI XU 			
-!                                       Texas A&M University
-!                                       Department of Aerospace Engineering
+!***********************************************************************************************XXX
+!              3D UNIFIED SMA UMAT INCORPORATING TANSFORMATION-INDUCED PLASTICITY(TRIP)         XXX
+!                                                                                               XXX
+!    	    COPYRIGHT   LEI XU1, Alexandros Solomou1, Theo Baxevanis2, Dimitris Lagoudas1 	XXX
+!           1 Department of Aerospace Engineering, Texas A&M University    XXX
+!           2 Department of Mechanical Engineering, University of Houston  XXX
 !               Version  (3-D)  13/MAY/2017   
 !
 ! XXX******************************************************************************************************XXX
