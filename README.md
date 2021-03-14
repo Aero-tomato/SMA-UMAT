@@ -9,6 +9,8 @@ Lei Xu, Alexandros Solomou, Theocharis Baxevanis, Dimitris Lagoudas, Finite stra
 
 A simple tutorial with Abaqus input files are provided. The tutorial is for the UMAT without TRIP. However you can still follow this simple tutorial to get the SMA-TRIP response by 1) filling in the additional material properties for TRIP UMAT 2) Specifying the TRIP UMAT as the running subroutine in Abaqus. If you have any questions at this moment, feel free to send emails to sdf007xulei@gmail.com for help. You are highly welcomed by the authors to use these open-resource codes for your non-commericial usage, and please cite the aforementioned papers accordingly.
 
-Best regards,
+Best regards
+
 Lei Xu
+
 March 13, 2021
