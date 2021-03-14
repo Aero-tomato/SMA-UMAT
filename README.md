@@ -11,6 +11,11 @@ A simple tutorial with Abaqus input files are provided. The tutorial is for the 
 
 Best regards
 
-Lei Xu
-
+Lei Xu, Ph.D.
 March 13, 2021
+
+---
+New Product Development Engineer.
+Schlumberger Technology Corp.
+Houston, TX  77054
+Email: sdf007xulei@gmail.com
